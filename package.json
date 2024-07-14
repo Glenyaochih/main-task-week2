@@ -1,0 +1,23 @@
+{
+  "name": "task-week2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deplor":"gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glenyaochih/main-task-week2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glenyaochih/main-task-week2/issues"
+  },
+  "homepage": "https://github.com/Glenyaochih/main-task-week2#readme",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
